@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "tabs_wechat",
+      "value": "#信"
+    },
+    {
+      "name":"tabs_address_book",
+      "value": "通讯录"
+    },
+    {
+      "name":"tabs_find",
+      "value": "发现"
+    },
+    {
+      "name":"tabs_my",
+      "value": "我"
+    }
+  ]
+}

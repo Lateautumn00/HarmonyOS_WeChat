@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AddressBook",
+    "pages/Find",
+    "pages/My",
+    "pages/Wx",
+    "pages/Chat",
+    "pages/ChatMessage",
+    "pages/User"
+  ]
+}

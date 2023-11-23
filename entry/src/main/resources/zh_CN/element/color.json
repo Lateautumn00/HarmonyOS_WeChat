@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "wx_grey",
+      "value": "#FFD2D0D0"
+    },
+    {
+      "name": "wx_white",
+      "value": "#ffffff"
+    },
+    {
+      "name": "wx_green",
+      "value": "#FF2DEA4C"
+    }
+  ]
+}
